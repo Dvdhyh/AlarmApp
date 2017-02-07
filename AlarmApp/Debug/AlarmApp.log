@@ -1,0 +1,4 @@
+﻿  AlarmApp.cpp
+c:\users\david\documents\visual studio 2015\projects\alarmapp\alarmapp\alarmapp.cpp(269): warning C4101: 'hSubMenu2': unreferenced local variable
+  AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Debug\AlarmApp.exe
+  AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Debug\AlarmApp.pdb (Full PDB)
