@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AlarmApp.cpp
+AlarmApp.cpp(278): warning C4101: 'hSubMenu2': unreferenced local variable
+  Generating code
+  All 404 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Release\AlarmApp.exe
+  AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Release\AlarmApp.pdb (Full PDB)
