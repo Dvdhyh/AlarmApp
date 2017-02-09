@@ -2,9 +2,9 @@
   AlarmApp.cpp
 AlarmApp.cpp(278): warning C4101: 'hSubMenu2': unreferenced local variable
   Generating code
-  597 of 711 functions (84.0%) were compiled, the rest were copied from previous compilation.
-    307 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  0 of 711 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Release\AlarmApp.exe
   AlarmApp.vcxproj -> C:\Users\David\Documents\Visual Studio 2015\Projects\AlarmApp\Release\AlarmApp.pdb (Full PDB)
